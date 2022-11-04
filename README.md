@@ -3,7 +3,6 @@
 # MiracleGardenLib
 拒绝setContentView和findViewById，快速找到View
 
-https://github.com/yingliangwei/MiracleGardenLib/blob/master/app/src/main/java/com/miraclegarden/lib/MainActivity.java #L1-#L20
 public class MainActivity extends MiracleGardenActivity<ActivityMainBinding> {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
