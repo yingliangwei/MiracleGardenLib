@@ -9,4 +9,5 @@
         super.onCreate(savedInstanceState);
         binding.text.setText("MiracleGarden");
     }
-}```
+}
+```
